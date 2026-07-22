@@ -72,7 +72,7 @@ The model was evaluated using the following metrics:
 | Linear Regression | Lower | Higher |
 | Polynomial Regression (Degree 3) | Higher (~0.99) | Lower |
 
-![Polynomial Regression Curve](https://github.com/Pankajdixit11/AIML_Assignment3/blob/82c8075e0f54b483ecb59df415c9be6f4e2e789e/Polynomial%20Regression%20Curve.png)
+![Regression Curve](https://github.com/Pankajdixit11/AIML_Assignment-3/blob/a74454fb48ea40450e2f6e2e8ce1d99151b03ffc/Polynomial%20Regression%20Curve.png)
 
 ### Key Observations
 1. **Strong Non-linear Relationship**: The data shows a clear non-linear pattern, with salaries increasing at an accelerating rate at higher position levels.
